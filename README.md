@@ -1,6 +1,6 @@
 # Remove BG Clone
 
-A web-based background removel tool inspired by popular remove.bg, created using HTML, CSS, and JavaScript.
+A web-based background removal tool inspired by popular remove.bg, created using HTML, CSS, and JavaScript.
 
 ## Features
 
@@ -16,3 +16,8 @@ A web-based background removel tool inspired by popular remove.bg, created using
     ```
 
 2. Open `index.html` in your preferred web browser.
+
+To visit site:
+```sh
+https://ayced31.github.io/Remove-BG-Clone/
+```
