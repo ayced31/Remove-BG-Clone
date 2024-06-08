@@ -16,8 +16,3 @@ A web-based background removal tool inspired by popular remove.bg, created using
     ```
 
 2. Open `index.html` in your preferred web browser.
-
-To visit site:
-```sh
-https://ayced31.github.io/Remove-BG-Clone/
-```
