@@ -11,7 +11,7 @@ A web-based background removal tool inspired by popular remove.bg, created using
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/remove-bg-clone.git
+    git clone https://github.com/ayced31/remove-bg-clone.git
     cd remove-bg-clone
     ```
 
